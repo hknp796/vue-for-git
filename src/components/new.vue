@@ -1,7 +1,7 @@
 <template>
 
 <div>
-    second one after conflict
+change in main
 </div>
 </template>
 

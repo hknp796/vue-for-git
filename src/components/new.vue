@@ -1,5 +1,8 @@
 <template>
 
+<div>
+    hello main cheanged
+</div>
 </template>
 
 <script>

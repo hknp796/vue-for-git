@@ -1,7 +1,7 @@
 <template>
 
 <div>
-    hello main cheanged
+    second one after conflict
 </div>
 </template>
 

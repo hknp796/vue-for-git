@@ -2,7 +2,7 @@
   <div>hello world
 
 <div>
-pushing ot main
+pushing ot main direct push
 </div>
 </template>
 

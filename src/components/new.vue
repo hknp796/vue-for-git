@@ -1,6 +1,6 @@
 <template>
 <div>
-    second one 
+    second one after conflict
 </div>
 </template>
 
